@@ -1,0 +1,79 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include=".inputs\countries\algeria.json" />
+    <Content Include=".inputs\countries\angola.json" />
+    <Content Include=".inputs\countries\benin.json" />
+    <Content Include=".inputs\countries\botswana.json" />
+    <Content Include=".inputs\countries\burkina-faso.json" />
+    <Content Include=".inputs\countries\burundi.json" />
+    <Content Include=".inputs\countries\cameroon.json" />
+    <Content Include=".inputs\countries\congo-brazzaville.json" />
+    <Content Include=".inputs\countries\cote-divore.json" />
+    <Content Include=".inputs\countries\egypt.json" />
+    <Content Include=".inputs\countries\eswatini.json" />
+    <Content Include=".inputs\countries\ethiopia.json" />
+    <Content Include=".inputs\countries\gabon.json" />
+    <Content Include=".inputs\countries\cape-verde.json" />
+    <Content Include=".inputs\countries\gambia.json" />
+    <Content Include=".inputs\countries\ghana.json" />
+    <Content Include=".inputs\countries\guinea.json" />
+    <Content Include=".inputs\countries\kenya.json" />
+    <Content Include=".inputs\countries\lesotho.json" />
+    <Content Include=".inputs\countries\liberia.json" />
+    <Content Include=".inputs\countries\madagascar.json" />
+    <Content Include=".inputs\countries\mali.json" />
+    <Content Include=".inputs\countries\malawi.json" />
+    <Content Include=".inputs\countries\maritius.json" />
+    <Content Include=".inputs\countries\mauritania.json" />
+    <Content Include=".inputs\countries\morocco.json" />
+    <Content Include=".inputs\countries\mozambique.json" />
+    <Content Include=".inputs\countries\namibia.json" />
+    <Content Include=".inputs\countries\niger.json" />
+    <Content Include=".inputs\countries\nigeria.json" />
+    <Content Include=".inputs\countries\sao-tome-and-principe.json" />
+    <Content Include=".inputs\countries\senegal.json" />
+    <Content Include=".inputs\countries\sierre-leone.json" />
+    <Content Include=".inputs\countries\seychelles.json" />
+    <Content Include=".inputs\countries\south-africa.json" />
+    <Content Include=".inputs\countries\sudan.json" />
+    <Content Include=".inputs\countries\tanzania.json" />
+    <Content Include=".inputs\countries\togo.json" />
+    <Content Include=".inputs\countries\tunisia.json" />
+    <Content Include=".inputs\countries\uganda.json" />
+    <Content Include=".inputs\countries\zambia.json" />
+    <Content Include=".inputs\countries\zimbabwe.json" />
+    <Content Include=".inputs\languages\Portuguese.json" />
+    <Content Include=".inputs\languages\French.json" />
+    <Content Include=".inputs\languages\English.json" />
+    <Content Include=".inputs\provinces\south-africa.eastern-cape.json" />
+    <Content Include=".inputs\provinces\south-africa.free-state.json" />
+    <Content Include=".inputs\provinces\south-africa.gauteng.json" />
+    <Content Include=".inputs\provinces\south-africa.kwazulu-natal.json" />
+    <Content Include=".inputs\provinces\south-africa.limpopo.json" />
+    <Content Include=".inputs\provinces\south-africa.mpumalanga.json" />
+    <Content Include=".inputs\provinces\south-africa.north-west.json" />
+    <Content Include=".inputs\provinces\south-africa.northern-cape.json" />
+    <Content Include=".inputs\provinces\south-africa.western-cape.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="XycloneDesigns.Apis.General" Version="1.0.2" />
+    <PackageReference Include="XycloneDesigns.Extensions.CSharp" Version="1.0.4" />
+    <PackageReference Include="XycloneDesigns.Extensions.GZip" Version="1.0.0" />
+    <PackageReference Include="XycloneDesigns.Extensions.SQLite" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include=".inputs\municipalities\" />
+  </ItemGroup>
+
+</Project>

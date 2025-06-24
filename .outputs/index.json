@@ -1,0 +1,58 @@
+[
+  {
+    "DateCreated": "21-06-2025",
+    "DateEdited": "21-06-2025",
+    "Name": "C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\countries.db.zip",
+    "Url": "https://raw.githubusercontent.com/xyclone-designs/database.general/refs/heads/main/.output/C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\countries.db.zip",
+    "Description": "individual zipped database for countries"
+  },
+  {
+    "DateCreated": "21-06-2025",
+    "DateEdited": "21-06-2025",
+    "Name": "C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\countries.db.gz",
+    "Url": "https://raw.githubusercontent.com/xyclone-designs/database.general/refs/heads/main/.output/C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\countries.db.gz",
+    "Description": "individual g-zipped database for countries"
+  },
+  {
+    "DateCreated": "21-06-2025",
+    "DateEdited": "21-06-2025",
+    "Name": "C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\languages.db.zip",
+    "Url": "https://raw.githubusercontent.com/xyclone-designs/database.general/refs/heads/main/.output/C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\languages.db.zip",
+    "Description": "individual zipped database for languages"
+  },
+  {
+    "DateCreated": "21-06-2025",
+    "DateEdited": "21-06-2025",
+    "Name": "C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\languages.db.gz",
+    "Url": "https://raw.githubusercontent.com/xyclone-designs/database.general/refs/heads/main/.output/C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\languages.db.gz",
+    "Description": "individual g-zipped database for languages"
+  },
+  {
+    "DateCreated": "21-06-2025",
+    "DateEdited": "21-06-2025",
+    "Name": "C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\municipalities.db.zip",
+    "Url": "https://raw.githubusercontent.com/xyclone-designs/database.general/refs/heads/main/.output/C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\municipalities.db.zip",
+    "Description": "individual zipped database for municipalities"
+  },
+  {
+    "DateCreated": "21-06-2025",
+    "DateEdited": "21-06-2025",
+    "Name": "C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\municipalities.db.gz",
+    "Url": "https://raw.githubusercontent.com/xyclone-designs/database.general/refs/heads/main/.output/C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\municipalities.db.gz",
+    "Description": "individual g-zipped database for municipalities"
+  },
+  {
+    "DateCreated": "21-06-2025",
+    "DateEdited": "21-06-2025",
+    "Name": "C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\provinces.db.zip",
+    "Url": "https://raw.githubusercontent.com/xyclone-designs/database.general/refs/heads/main/.output/C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\provinces.db.zip",
+    "Description": "individual zipped database for provinces"
+  },
+  {
+    "DateCreated": "21-06-2025",
+    "DateEdited": "21-06-2025",
+    "Name": "C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\provinces.db.gz",
+    "Url": "https://raw.githubusercontent.com/xyclone-designs/database.general/refs/heads/main/.output/C:\\Users\\Thando Ndlovu\\Desktop\\xyclone-designs\\_database.general\\.outputs\\provinces.db.gz",
+    "Description": "individual g-zipped database for provinces"
+  }
+]
