@@ -1,5 +1,0 @@
-Capital
-Population
-SquareKms
-UrlCoatOfArms
-UrlWebsite
